@@ -1,2 +1,2 @@
 # tugasAlvito
-link web -> techmuda3.com/alvito
+link web -> http://techmuda3.com/alvito
